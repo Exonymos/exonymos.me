@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "exonymos",
+    template: "%s | exonymos",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Portfolio of exonymos",
   openGraph: {
-    title: "chronark.com",
+    title: "exonymos",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Portfolio of exonymos",
+    url: "https://exonymos.vercel.app",
+    siteName: "exonymos",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://exonymos.vercel.app/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Exonymos",
     card: "summary_large_image",
   },
   icons: {
