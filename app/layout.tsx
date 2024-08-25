@@ -68,6 +68,7 @@ export default function RootLayout({
         <BeamAnalytics />
         <VercelAnalytics />
         <SpeedInsights />
+        <meta name="google-site-verification" content="O0hwtkaMha1GwB5eCwhkDXGqFGqQcCsqhYnbTHOSZZU" />
       </head>
       <body
         className={`bg-black ${process.env.NODE_ENV === "development" ? "debug-screens" : undefined
