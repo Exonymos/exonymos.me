@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/Projects/:match*",
-      "destination": "https://github.com/exonymos/Projects/:match*"
-    }
-  ]
-}
