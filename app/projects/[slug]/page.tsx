@@ -5,6 +5,7 @@ import { Header } from "./header";
 import "./mdx.css";
 import { ReportView } from "./view";
 import { Redis } from "@upstash/redis";
+import GiscusComments from '../../components/GiscusClient';
 
 export const revalidate = 60;
 
@@ -43,6 +44,11 @@ export default async function PostPage({ params }: Props) {
       <article className="px-4 py-12 mx-auto prose prose-zinc prose-quoteless">
         <Mdx code={project.body.code} />
       </article>
+      <div className="relative min-h-screen bg-gradient-to-tl from-black via-zinc-900 to-black">
+        <div className="prose prose-zinc mt-8 px-4 py-6 mx-auto">
+          <GiscusComments slug={slug} />
+        </div>
+      </div>
     </div>
   );
 }
