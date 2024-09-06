@@ -16,11 +16,11 @@ export const metadata: Metadata = {
     title: "exonymos",
     description:
       "Portfolio of exonymos",
-    url: "https://exonymos.vercel.app",
+    url: "https://exonymos.me",
     siteName: "exonymos",
     images: [
       {
-        url: "https://exonymos.vercel.app/og.png",
+        url: "https://exonymos.me/og.png",
         width: 1920,
         height: 1080,
       },

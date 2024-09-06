@@ -38,7 +38,7 @@ export default function Home() {
           I'm building{" "}
           <Link
             target="_blank"
-            href="https://exonymos.vercel.app/"
+            href="https://exonymos.me/"
             className="underline duration-500 hover:text-zinc-300"
           >
             this website
