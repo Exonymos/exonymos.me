@@ -45,6 +45,7 @@ export default function Home() {
           </Link> to use as my portfolio.
         </h2>
       </div>
+      <a rel="me" href="https://mastodon.social/@Exonymos" className="hidden">Mastodon</a>
     </div>
   );
 
