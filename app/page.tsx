@@ -35,17 +35,16 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          I'm building{" "}
+          I'm working on{" "}
           <Link
             target="_blank"
-            href="https://exonymos.me/"
+            href="https://exonymos.me/projects"
             className="underline duration-500 hover:text-zinc-300"
           >
-            this website
-          </Link> to use as my portfolio.
+            my projects
+          </Link> to learn and create new things.
         </h2>
       </div>
-      <a rel="me" href="https://mastodon.social/@Exonymos" className="hidden">Mastodon</a>
     </div>
   );
 
