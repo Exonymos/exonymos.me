@@ -1,15 +1,14 @@
 <div align="center">
-    <a href="https://exonymos.me/"><h1 align="center">exonymos</h1></a>
+
+# [exonymos.me](https://exonymos.me/)
 
 My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Upstash](https://upstash.com), [Contentlayer](https://www.contentlayer.dev/) and deployed to [Vercel](https://vercel.com/).
-
 
 [![GitHub license](https://img.shields.io/github/license/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/commits/main)<br>
 [![GitHub stars](https://img.shields.io/github/stars/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/network)
-
 
 </div>
 
