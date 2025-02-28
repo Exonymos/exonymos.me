@@ -1,96 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
+﻿<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://exonymos.me/</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://exonymos.me/</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://exonymos.me/projects</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/contact</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://exonymos.me/contact</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/tea-addicts</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/tea-addicts</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/gi-ar-calculator</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/gacha-level-calculator</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/exonymos.me</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/exonymos.me</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/counter</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/counter</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/quiz-game</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/countdown-timer</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/random-quote</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/guess-the-number</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/show-trackr</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/openspeak</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/qr-code-generator</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/qr-code-generator</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/connect-4-react</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/quiz-game</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/ashen-otaku</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/random-quote</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/exonymos.github.io</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/show-trackr</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/countdown-timer</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/gi-ar-calculator</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/guess-the-number</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/connect-4-react</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://exonymos.me/projects/openspeak</loc>
-  <lastmod>2024-10-17T19:04:56+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://exonymos.me/projects/ashen-otaku</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
 </url>
-
-
+<url>
+<loc>https://exonymos.me/projects/exonymos.github.io</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
+</url>
 </urlset>
