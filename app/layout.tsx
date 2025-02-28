@@ -65,6 +65,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={[inter.variable, calSans.variable].join(" ")}>
       <head>
+        <a rel="me" href="https://mastodon.social/@Exonymos"></a>
         <BeamAnalytics />
         <VercelAnalytics />
         <SpeedInsights />
