@@ -90,6 +90,12 @@
 <priority>0.64</priority>
 </url>
 <url>
+<loc>https://exonymos.me/projects/todo-list</loc>
+<lastmod>2025-02-28T11:35:14+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.64</priority>
+</url>
+<url>
 <loc>https://exonymos.me/projects/connect-4-react</loc>
 <lastmod>2025-02-28T11:35:14+00:00</lastmod>
 <changefreq>weekly</changefreq>
