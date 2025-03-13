@@ -4,7 +4,7 @@ const GiscusComments = () => {
   return (
         <Giscus
           id="comments"
-          repo="Exonymos/Projects"
+          repo="Exonymos/projects"
           repoId="R_kgDOJfktVA"
           category="General"
           categoryId="DIC_kwDOJfktVM4Ch7m6"
